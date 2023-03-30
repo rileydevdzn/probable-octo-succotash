@@ -1,2 +1,2 @@
-# tribute page
+# odinproj-landing page
  
