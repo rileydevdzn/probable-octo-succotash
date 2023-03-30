@@ -1,2 +1,0 @@
-# odinproj-landing page
- 
